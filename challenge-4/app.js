@@ -1,8 +1,8 @@
 // Sabse pehle DOM elements ko select karenge
-const taskInput = document.getElementById("taskInput"); // Input field
-const addButton = document.getElementById("addButton"); // Add button
-const taskList = document.getElementById("taskList"); // Task list UL
-const totalTasks = document.getElementById("totalTasks"); // Total task count
+const taskInput = document.getElementById("taskInput"); // 
+const addButton = document.getElementById("addButton"); // 
+const taskList = document.getElementById("taskList"); // 
+const totalTasks = document.getElementById("totalTasks");
 const completedTasks = document.getElementById("completedTasks"); // Completed task count
 
 let taskCount = 0; // Total task count
